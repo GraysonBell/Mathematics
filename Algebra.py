@@ -1,13 +1,17 @@
-x = 1
+x = 4
 y = 2
-z = x * y
-print(z)
 
 addition = x + y
 print(addition)
 
 subtraction = x - y
 print(subtraction)
+
+Multiplication = x * y
+print(Multiplication)
+
+Division = x / y
+print(Division)
 
 Modulus = x % y
 print(Modulus)

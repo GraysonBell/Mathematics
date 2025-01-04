@@ -18,3 +18,6 @@ print(Modulus)
 
 Exponent = x ** y
 print(Exponent)
+
+next = x *** y
+print(next)

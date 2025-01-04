@@ -12,4 +12,11 @@
 
 
 #Quadratic Formula
-Quadratic = [a, b, c]
+Quadratic  = ("a", "b", "c")
+a = int
+b = int
+c = int
+
+
+
+
